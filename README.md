@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm <span style="color:#00d4ff">Isaiah Samuel</span> 👋</h1>
   
-  <h3>🚀 Full-Stack Developer | Building Production-Ready Applications</h3>
+  <h3> Full-Stack Developer | Building Production-Ready Applications</h3>
 
   <img src="https://raw.githubusercontent.com/niftysam/niftysam/main/assets/banner.gif" alt="Banner" width="100%" style="border-radius: 15px; margin: 20px 0;" />
 
   <p>
-    <strong>I craft end-to-end digital experiences</strong> — from pixel-perfect UIs to scalable backends and cloud infrastructure. Passionate about clean architecture, performance, and developer experience.
+    <strong>I craft end-to-end digital experiences</strong>  from pixel-perfect UIs to scalable backends and cloud infrastructure. Passionate about clean architecture, performance, and developer experience.
   </p>
 
   <p>

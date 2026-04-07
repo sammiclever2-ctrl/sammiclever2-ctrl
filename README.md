@@ -49,7 +49,7 @@
 
 - 💼 Open to full-time roles & freelance opportunities
 - 📍 Based in **Lagos, Nigeria** (open to remote & relocation)
-- ✉️ Reach me at: `isaiahsmuelseth@gmail.com`
+- ✉️ Reach me at: `isaiahsamuelseth@gmail.com`
 - 🐦 Follow me on X: [@nifty_sam](https://x.com/nifty_sam)
 
 
